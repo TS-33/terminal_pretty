@@ -2,9 +2,9 @@
 
 ## 效果展示
 
-![示例图片1](doc\assets\a1.png)
+![示例图片1](doc/assets/a1.png)
 
-![示例图片2](doc\assets\a2.png)
+![示例图片2](doc/assets/a2.png)
 
 ## Windows 安装说明
 
