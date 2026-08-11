@@ -24,4 +24,3 @@ echo !RED!            ██████            !RESET!
 echo !RED!              ██              !RESET!
 echo.
 
-pause
